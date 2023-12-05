@@ -12,9 +12,9 @@ Missing resource(s), issue(s), or question(s)? Please open an issue here, or fee
 
 | #/Link | Title | Venue/Journal | Year |
 |-----|-----|-----|-----|
-| [1](https://doi.org/10.1145/3616864) | Explainable Reinforcement Learning: A Survey and Comparative Review | ACM Comput. Surv. | 2023 |
-| [2](https://doi.org/10.48550/ARXIV.2211.06665) | A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges | CoRR | 2023 |
-| [3](https://doi.org/10.48550/ARXIV.2207.01911) | Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications | CoRR | 2023 |
+| [1](https://doi.org/10.1145/3623377) | Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications | ACM Comput. Surv. | 2023 |
+| [2](https://doi.org/10.1145/3616864) | Explainable Reinforcement Learning: A Survey and Comparative Review | ACM Comput. Surv. | 2023 |
+| [3](https://doi.org/10.48550/ARXIV.2211.06665) | A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges | CoRR | 2023 |
 | [4](https://doi.org/10.1007/s10994-023-06479-7) | Explainable reinforcement learning (XRL): a systematic literature review and taxonomy | Mach. Learn. | 2023 |
 | [5](https://doi.org/10.1007/S00521-023-08423-1) | Explainable reinforcement learning for broad-XAI: a conceptual framework and survey | Neural Comput. Appl. | 2023 |
 | [6](https://doi.org/10.1145/3527448) | Explainable Deep Reinforcement Learning: State of the Art and Challenges | ACM Comput. Surv. | 2022 |
@@ -241,7 +241,7 @@ Missing resource(s), issue(s), or question(s)? Please open an issue here, or fee
 ## Citation
 
 ```lang-tex
-@article{journals/ml/Bekkemoen23,
+@article{bekkemoen23,
 author       = {Yanzhe Bekkemoen},
 title        = {Explainable reinforcement learning (XRL): a systematic literature review and taxonomy},
 journal      = {Mach. Learn.},
