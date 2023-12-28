@@ -247,6 +247,9 @@ Missing resource(s), issue(s), or question(s)? Please open an issue here, or fee
 author       = {Yanzhe Bekkemoen},
 title        = {Explainable reinforcement learning (XRL): a systematic literature review and taxonomy},
 journal      = {Mach. Learn.},
+volume       = {113},
+number       = {1},
+pages        = {355--441},
 year         = {2023},
 url          = {https://doi.org/10.1007/s10994-023-06479-7},
 doi          = {10.1007/s10994-023-06479-7}
