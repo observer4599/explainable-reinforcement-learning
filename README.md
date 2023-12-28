@@ -1,6 +1,6 @@
 # Explainable Reinforcement Learning (XRL) Resources
 
-This repository aims to keep an up-to-date list of research on explainable reinforcement learning (XRL). The repository supplements the survey paper found [here](https://doi.org/10.1007/s10994-023-06479-7). If you find this helpful, please give this repository a star and [cite](#citation) this work.
+This repository aims to keep an up-to-date list of research on explainable reinforcement learning (XRL). The repository supplements the survey paper found [here](https://doi.org/10.1007/s10994-023-06479-7). If you find this helpful, please give this repository a star and [cite](#citation) the survey paper.
 
 Missing resource(s), issue(s), or question(s)? Please open an issue here, or feel free to email me (contact [at] xrl [dot] ai).
 
