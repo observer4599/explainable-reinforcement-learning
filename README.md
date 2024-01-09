@@ -244,15 +244,16 @@ Missing resources, issues, or questions? Please open an issue here, or feel free
 ## Citation
 
 ```lang-tex
-@article{bekkemoen23,
+@article{Bekkemoen24,
 author       = {Yanzhe Bekkemoen},
-title        = {Explainable reinforcement learning (XRL): a systematic literature review and taxonomy},
+title        = {Explainable reinforcement learning {(XRL):} a systematic literature
+review and taxonomy},
 journal      = {Mach. Learn.},
 volume       = {113},
 number       = {1},
 pages        = {355--441},
-year         = {2023},
+year         = {2024},
 url          = {https://doi.org/10.1007/s10994-023-06479-7},
-doi          = {10.1007/s10994-023-06479-7}
+doi          = {10.1007/S10994-023-06479-7},
 }
 ```
