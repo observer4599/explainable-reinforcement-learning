@@ -12,7 +12,7 @@ Missing resources, issues, or questions? Please open an issue here.
 
 | #/Link | Title | Venue/Journal | Year |
 |-----|-----|-----|-----|
-| [1](https://doi.org/10.5555/3635637.3662930) | Causal Explanations for Sequential Decision-Making in Multi-Agent Systems | AAMAS | 2024 |
+| [1](https://dl.acm.org/doi/10.5555/3635637.3662930) | Causal Explanations for Sequential Decision-Making in Multi-Agent Systems | AAMAS | 2024 |
 | [2](https://arxiv.org/abs/2408.08230) | Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators | ECAI | 2024 |
 | [3](https://doi.org/10.1109/TSMC.2023.3312411) | Leveraging Reward Consistency for Interpretable Feature Discovery in Reinforcement Learning | IEEE Trans. Syst. Man Cybern. Syst. | 2024 |
 | [4](https://doi.org/10.1609/AIIDE.V19I1.27516) | Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments | AIIDE | 2023 |
