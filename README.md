@@ -33,13 +33,14 @@ Missing resources, issues, or questions? Please open an issue here.
 | [6](https://doi.org/10.1007/978-3-031-47518-4) | Explainable and Interpretable Reinforcement Learning for Robotics | SLAIML | 2024 |
 | [7](https://doi.org/10.1145/3623377) | Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications | ACM Comput. Surv. | 2023 |
 | [8](https://doi.org/10.48550/ARXIV.2211.06665) | A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges | CoRR | 2023 |
-| [9](https://doi.org/10.1007/S00521-023-08423-1) | Explainable reinforcement learning for broad-XAI: a conceptual framework and survey | Neural Comput. Appl. | 2023 |
-| [10](https://doi.org/10.1145/3527448) | Explainable Deep Reinforcement Learning: State of the Art and Challenges | ACM Comput. Surv. | 2022 |
-| [11](https://doi.org/10.48550/ARXIV.2203.11547) | Explainability in reinforcement learning: perspective and position | CoRR | 2022 |
-| [12](https://doi.org/10.3389/FRAI.2021.550030) | Explainable AI and Reinforcement Learning - A Systematic Review of Current Approaches and Trends | Frontiers Artif. Intell. | 2021 |
-| [13](https://doi.org/10.1016/J.KNOSYS.2020.106685) | Explainability in deep reinforcement learning | Knowl. Based Syst. | 2021 |
-| [14](https://doi.org/10.1007/978-3-030-57321-8_5) | Explainable Reinforcement Learning: A Survey | CD-MAKE | 2020 |
-| [15](https://doi.org/10.1109/ACCESS.2020.3023394) | Reinforcement Learning Interpretation Methods: A Survey | IEEE Access | 2020 |
+| [9](https://doi.org/10.1201/9781003324140-5) | Advances in Explainable Reinforcement Learning: An Intelligent Transportation Systems Perspective | Explainable Artificial Intelligence for Intelligent Transportation Systems | 2023 |
+| [10](https://doi.org/10.1007/S00521-023-08423-1) | Explainable reinforcement learning for broad-XAI: a conceptual framework and survey | Neural Comput. Appl. | 2023 |
+| [11](https://doi.org/10.1145/3527448) | Explainable Deep Reinforcement Learning: State of the Art and Challenges | ACM Comput. Surv. | 2022 |
+| [12](https://doi.org/10.48550/ARXIV.2203.11547) | Explainability in reinforcement learning: perspective and position | CoRR | 2022 |
+| [13](https://doi.org/10.3389/FRAI.2021.550030) | Explainable AI and Reinforcement Learning - A Systematic Review of Current Approaches and Trends | Frontiers Artif. Intell. | 2021 |
+| [14](https://doi.org/10.1016/J.KNOSYS.2020.106685) | Explainability in deep reinforcement learning | Knowl. Based Syst. | 2021 |
+| [15](https://doi.org/10.1007/978-3-030-57321-8_5) | Explainable Reinforcement Learning: A Survey | CD-MAKE | 2020 |
+| [16](https://doi.org/10.1109/ACCESS.2020.3023394) | Reinforcement Learning Interpretation Methods: A Survey | IEEE Access | 2020 |
 
 ## Papers
 
