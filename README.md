@@ -16,12 +16,13 @@ Missing resources, issues, or questions? Please open an issue here.
 | [2](https://dl.acm.org/doi/10.5555/3635637.3662930) | Causal Explanations for Sequential Decision-Making in Multi-Agent Systems | AAMAS | 2024 |
 | [3](https://doi.org/10.1016/J.ARTINT.2024.104182) | ASQ-IT: Interactive explanations for reinforcement-learning agents | Artif. Intell. | 2024 |
 | [4](https://arxiv.org/abs/2408.08230) | Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators | ECAI | 2024 |
-| [5](https://doi.org/10.1109/TSMC.2023.3312411) | Leveraging Reward Consistency for Interpretable Feature Discovery in Reinforcement Learning | IEEE Trans. Syst. Man Cybern. Syst. | 2024 |
-| [6](https://doi.org/10.48550/ARXIV.2402.12685) | XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques | KDD | 2024 |
-| [7](https://doi.org/10.1038/s41598-024-70701-2) | Information based explanation methods for deep learning agents--with applications on large open-source chess models | Scientific Reports | 2024 |
-| [8](https://doi.org/10.1609/AIIDE.V19I1.27516) | Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments | AIIDE | 2023 |
-| [9](https://doi.org/10.48550/ARXIV.2310.16410) | Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero | CoRR | 2023 |
-| [10](https://doi.org/10.1007/978-3-031-44067-0_13) | Explaining Deep Reinforcement Learning-Based Methods for Control of Building HVAC Systems | xAI | 2023 |
+| [5](https://openreview.net/forum?id=0P3kaNluGj) | End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations | ICML | 2024 |
+| [6](https://doi.org/10.1109/TSMC.2023.3312411) | Leveraging Reward Consistency for Interpretable Feature Discovery in Reinforcement Learning | IEEE Trans. Syst. Man Cybern. Syst. | 2024 |
+| [7](https://doi.org/10.48550/ARXIV.2402.12685) | XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques | KDD | 2024 |
+| [8](https://doi.org/10.1038/s41598-024-70701-2) | Information based explanation methods for deep learning agents--with applications on large open-source chess models | Scientific Reports | 2024 |
+| [9](https://doi.org/10.1609/AIIDE.V19I1.27516) | Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments | AIIDE | 2023 |
+| [10](https://doi.org/10.48550/ARXIV.2310.16410) | Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero | CoRR | 2023 |
+| [11](https://doi.org/10.1007/978-3-031-44067-0_13) | Explaining Deep Reinforcement Learning-Based Methods for Control of Building HVAC Systems | xAI | 2023 |
 
 ## Survey Papers
 
