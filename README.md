@@ -23,7 +23,7 @@ If you find this resource useful, consider giving it a star to help others disco
 - [Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents](http://papers.nips.cc/paper_files/paper/2024/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html) — NeurIPS, 2024
 - [TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models](https://doi.org/10.48550/ARXIV.2509.04809) — CoRR, 2025
 - [Interpret Policies in Deep Reinforcement Learning using SILVER with RL-Guided Labeling: A Model-level Approach to High-dimensional and Multi-action Environments](https://doi.org/10.48550/ARXIV.2510.19244) — CoRR, 2025
-- [Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies](https://doi.org/10.5555/3709347.3743538) — AAMAS, 2025
+- [Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies](https://dl.acm.org/doi/10.5555/3709347.3743538) — AAMAS, 2025
 - [Aligning Agent Policies with Preferences: Human-Centered Interpretable Reinforcement Learning](https://openreview.net/forum?id=0qssquBFsS) — WiML Workshop @ NeurIPS 2025, 2026
 - [Inducing, Detecting and Characterising Neural Modules: A Pipeline for Functional Interpretability in Reinforcement Learning](https://proceedings.mlr.press/v267/soligo25a.html) — ICML, 2025
 - [Interpreting Emergent Planning in Model-Free Reinforcement Learning](https://openreview.net/forum?id=DzGe40glxs) — ICLR, 2025
@@ -72,7 +72,7 @@ If you find this resource useful, consider giving it a star to help others disco
 
 | #/Link | Title | Venue/Journal | Year |
 |:---:|:---|:---|:---:|
-| [1](https://doi.org/10.5555/3709347.3743538) | Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies | AAMAS | 2025 |
+| [1](https://dl.acm.org/doi/10.5555/3709347.3743538) | Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies | AAMAS | 2025 |
 | [2](https://doi.org/10.48550/ARXIV.2510.19244) | Interpret Policies in Deep Reinforcement Learning using SILVER with RL-Guided Labeling: A Model-level Approach to High-dimensional and Multi-action Environments | CoRR | 2025 |
 | [3](https://doi.org/10.48550/ARXIV.2509.04809) | TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models | CoRR | 2025 |
 | [4](https://openreview.net/forum?id=DzGe40glxs) | Interpreting Emergent Planning in Model-Free Reinforcement Learning | ICLR | 2025 |
@@ -156,9 +156,9 @@ If you find this resource useful, consider giving it a star to help others disco
 | #/Link | Title | Venue/Journal | Year |
 |:---:|:---|:---|:---:|
 | [1](https://doi.org/10.1609/AAAI.V36I5.20463) | "I Don't Think So": Summarizing Policy Disagreements for Agent Comparison | AAAI | 2022 |
-| [2](https://doi.org/10.5555/3535850.3535950) | CAPS: Comprehensible Abstract Policy Summaries for Explaining Reinforcement Learning Agents | AAMAS | 2022 |
-| [3](https://doi.org/10.5555/3535850.3535865) | Interpretable Preference-based Reinforcement Learning with Tree-Structured Reward Functions | AAMAS | 2022 |
-| [4](https://doi.org/10.5555/3535850.3535926) | Lazy-MDPs: Towards Interpretable RL by Learning When to Act | AAMAS | 2022 |
+| [2](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p889.pdf) | CAPS: Comprehensible Abstract Policy Summaries for Explaining Reinforcement Learning Agents | AAMAS | 2022 |
+| [3](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p118.pdf) | Interpretable Preference-based Reinforcement Learning with Tree-Structured Reward Functions | AAMAS | 2022 |
+| [4](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p669.pdf) | Lazy-MDPs: Towards Interpretable RL by Learning When to Act | AAMAS | 2022 |
 | [5](https://doi.org/10.1109/ACSOS55765.2022.00023) | Explaining Online Reinforcement Learning Decisions of Self-Adaptive Systems | ACSOS | 2022 |
 | [6](https://doi.org/10.3390/A15030091) | Analysis of Explainable Goal-Driven Reinforcement Learning in a Continuous Simulated Environment | Algorithms | 2022 |
 | [7](https://doi.org/10.3390/app122110947) | BEERL: Both Ends Explanations for Reinforcement Learning | Applied Sciences | 2022 |
@@ -274,7 +274,7 @@ If you find this resource useful, consider giving it a star to help others disco
 |:---:|:---|:---|:---:|
 | [1](https://doi.org/10.1609/AAAI.V34I03.5631) | Explainable Reinforcement Learning through a Causal Lens | AAAI | 2020 |
 | [2](https://ceur-ws.org/Vol-2600/short4.pdf) | Attribution-based Salience Method towards Interpretable Reinforcement Learning | AAAI-MAKE | 2020 |
-| [3](https://doi.org/10.5555/3398761.3398777) | Learning an Interpretable Traffic Signal Control Policy | AAMAS | 2020 |
+| [3](https://dl.acm.org/doi/10.5555/3398761.3398777) | Learning an Interpretable Traffic Signal Control Policy | AAMAS | 2020 |
 | [4](http://proceedings.mlr.press/v108/silva20a.html) | Optimization Methods for Interpretable Differentiable Decision Trees Applied to Reinforcement Learning | AISTATS | 2020 |
 | [5](https://doi.org/10.1016/J.ARTINT.2020.103367) | Interestingness elements for explainable reinforcement learning: Understanding agents' capabilities and limitations | Artif. Intell. | 2020 |
 | [6](https://doi.org/10.1007/S10458-020-09451-0) | Model primitives for hierarchical lifelong reinforcement learning | Auton. Agents Multi Agent Syst. | 2020 |
