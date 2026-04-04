@@ -12,6 +12,7 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 
 - [Resources](#resources)
 - [Survey Papers](#survey-papers) (18 papers)
+  - [General XRL Surveys](#general-xrl-surveys) (10) | [Deep RL Explainability](#deep-rl-explainability) (4) | [Focused Topics and Domains](#focused-topics-and-domains) (4)
 - [Papers](#papers) (257 papers)
   - [2026](#2026) (1) | [2025](#2025) (8) | [2024](#2024) (22) | [2023](#2023) (32) | [2022](#2022) (50) | [2021](#2021) (53) | [2020](#2020) (35) | [2019](#2019) (32) | [2018](#2018) (18) | [2017](#2017) (5) | [2016](#2016) (1)
 
@@ -35,26 +36,44 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 
 ## Survey Papers
 
+### General XRL Surveys
+
 | #/Link | Title | Venue/Journal | Year |
 |:---:|:---|:---|:---:|
 | [1](https://doi.org/10.48550/ARXIV.2507.12599) | A Survey of Explainable Reinforcement Learning: Targets, Methods and Needs | CoRR | 2025 |
-| [2](https://doi.org/10.48550/ARXIV.2502.06869) | A Survey on Explainable Deep Reinforcement Learning | CoRR | 2025 |
-| [3](https://doi.org/10.1145/3616864) | Explainable Reinforcement Learning: A Survey and Comparative Review | ACM Comput. Surv. | 2024 |
-| [4](https://doi.org/10.1145/3648472) | Redefining Counterfactual Explanations for Reinforcement Learning: Overview, Challenges and Opportunities | ACM Comput. Surv. | 2024 |
-| [5](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003355281-2/survey-global-explanations-reinforcement-learning-yotam-amitai-ofra-amir) | A Survey of Global Explanations in Reinforcement Learning | Explainable Agency in Artificial Intelligence | 2024 |
-| [6](https://doi.org/10.1007/s10994-024-06543-w) | A survey on interpretable reinforcement learning | Mach. Learn. | 2024 |
-| [7](https://doi.org/10.1007/S10994-023-06479-7) | Explainable reinforcement learning (XRL): a systematic literature review and taxonomy | Mach. Learn. | 2024 |
-| [8](https://doi.org/10.1007/978-3-031-47518-4) | Explainable and Interpretable Reinforcement Learning for Robotics | SLAIML | 2024 |
-| [9](https://doi.org/10.1145/3623377) | Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications | ACM Comput. Surv. | 2023 |
-| [10](https://doi.org/10.48550/ARXIV.2211.06665) | A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges | CoRR | 2023 |
-| [11](https://doi.org/10.1201/9781003324140-5) | Advances in Explainable Reinforcement Learning: An Intelligent Transportation Systems Perspective | Explainable Artificial Intelligence for Intelligent Transportation Systems | 2023 |
-| [12](https://doi.org/10.1007/S00521-023-08423-1) | Explainable reinforcement learning for broad-XAI: a conceptual framework and survey | Neural Comput. Appl. | 2023 |
-| [13](https://doi.org/10.1145/3527448) | Explainable Deep Reinforcement Learning: State of the Art and Challenges | ACM Comput. Surv. | 2022 |
-| [14](https://doi.org/10.48550/ARXIV.2203.11547) | Explainability in reinforcement learning: perspective and position | CoRR | 2022 |
-| [15](https://doi.org/10.3389/FRAI.2021.550030) | Explainable AI and Reinforcement Learning - A Systematic Review of Current Approaches and Trends | Frontiers Artif. Intell. | 2021 |
-| [16](https://doi.org/10.1016/J.KNOSYS.2020.106685) | Explainability in deep reinforcement learning | Knowl. Based Syst. | 2021 |
-| [17](https://doi.org/10.1007/978-3-030-57321-8_5) | Explainable Reinforcement Learning: A Survey | CD-MAKE | 2020 |
-| [18](https://doi.org/10.1109/ACCESS.2020.3023394) | Reinforcement Learning Interpretation Methods: A Survey | IEEE Access | 2020 |
+| [2](https://doi.org/10.1145/3616864) | Explainable Reinforcement Learning: A Survey and Comparative Review | ACM Comput. Surv. | 2024 |
+| [3](https://doi.org/10.1007/s10994-024-06543-w) | A survey on interpretable reinforcement learning | Mach. Learn. | 2024 |
+| [4](https://doi.org/10.1007/S10994-023-06479-7) | Explainable reinforcement learning (XRL): a systematic literature review and taxonomy | Mach. Learn. | 2024 |
+| [5](https://doi.org/10.48550/ARXIV.2211.06665) | A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges | CoRR | 2023 |
+| [6](https://doi.org/10.1007/S00521-023-08423-1) | Explainable reinforcement learning for broad-XAI: a conceptual framework and survey | Neural Comput. Appl. | 2023 |
+| [7](https://doi.org/10.48550/ARXIV.2203.11547) | Explainability in reinforcement learning: perspective and position | CoRR | 2022 |
+| [8](https://doi.org/10.3389/FRAI.2021.550030) | Explainable AI and Reinforcement Learning - A Systematic Review of Current Approaches and Trends | Frontiers Artif. Intell. | 2021 |
+| [9](https://doi.org/10.1007/978-3-030-57321-8_5) | Explainable Reinforcement Learning: A Survey | CD-MAKE | 2020 |
+| [10](https://doi.org/10.1109/ACCESS.2020.3023394) | Reinforcement Learning Interpretation Methods: A Survey | IEEE Access | 2020 |
+
+[Back to top](#explainable-reinforcement-learning-xrl-resources)
+
+### Deep RL Explainability
+
+| #/Link | Title | Venue/Journal | Year |
+|:---:|:---|:---|:---:|
+| [1](https://doi.org/10.48550/ARXIV.2502.06869) | A Survey on Explainable Deep Reinforcement Learning | CoRR | 2025 |
+| [2](https://doi.org/10.1145/3623377) | Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications | ACM Comput. Surv. | 2023 |
+| [3](https://doi.org/10.1145/3527448) | Explainable Deep Reinforcement Learning: State of the Art and Challenges | ACM Comput. Surv. | 2022 |
+| [4](https://doi.org/10.1016/J.KNOSYS.2020.106685) | Explainability in deep reinforcement learning | Knowl. Based Syst. | 2021 |
+
+[Back to top](#explainable-reinforcement-learning-xrl-resources)
+
+### Focused Topics and Domains
+
+| #/Link | Title | Venue/Journal | Year |
+|:---:|:---|:---|:---:|
+| [1](https://doi.org/10.1145/3648472) | Redefining Counterfactual Explanations for Reinforcement Learning: Overview, Challenges and Opportunities | ACM Comput. Surv. | 2024 |
+| [2](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003355281-2/survey-global-explanations-reinforcement-learning-yotam-amitai-ofra-amir) | A Survey of Global Explanations in Reinforcement Learning | Explainable Agency in Artificial Intelligence | 2024 |
+| [3](https://doi.org/10.1007/978-3-031-47518-4) | Explainable and Interpretable Reinforcement Learning for Robotics | SLAIML | 2024 |
+| [4](https://doi.org/10.1201/9781003324140-5) | Advances in Explainable Reinforcement Learning: An Intelligent Transportation Systems Perspective | Explainable Artificial Intelligence for Intelligent Transportation Systems | 2023 |
+
+[Back to top](#explainable-reinforcement-learning-xrl-resources)
 
 ## Papers
 
