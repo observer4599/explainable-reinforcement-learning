@@ -19,7 +19,7 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 
 ## Recently Added
 
-- [Explanations for Sequential Decision-Making - an Overview](https://doi.org/10.1609/AAAI.V40I48.42129) — Fortieth AAAI Conference on Artificial Intelligence, Thirty-Eighth Conference on Innovative Applications of Artificial Intelligence, Sixteenth Symposium on Educational Advances in Artificial Intelligence, AAAI 2026, Singapore, January 20-27, 2026, 2026
+- [Explanations for Sequential Decision-Making - an Overview](https://doi.org/10.1609/AAAI.V40I48.42129) — AAAI, 2026
 - [LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning](https://openreview.net/forum?id=Mjn53GtMxi) — ICLR, 2025
 - [Interpretable Deep Reinforcement Learning Via Concept-Based Policy Distillation](https://doi.org/10.1007/S10994-025-06928-5) — Mach. Learn., 2025
 - [Hierarchical Programmatic Option Framework](http://papers.nips.cc/paper_files/paper/2024/hash/e51ec47238fc3e82c269965c5533f9ef-Abstract-Conference.html) — NeurIPS, 2024
