@@ -1,12 +1,12 @@
 # Explainable Reinforcement Learning (XRL) Resources
 
-**275 papers** (18 surveys, 257 articles) | Years: 2016–2026 | Last generated: 2026-04-04
+[![Cite](https://img.shields.io/badge/cite-10.1007/S10994--023--06479--7-orange)](https://doi.org/10.1007/S10994-023-06479-7) ![Papers: 275](https://img.shields.io/badge/papers-275-blue) ![Last Updated: 2026-04-04](https://img.shields.io/badge/last_updated-2026--04--04-green) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
-A curated collection of research papers on explainable reinforcement learning (XRL), covering surveys, interpretable policies, saliency methods, counterfactual explanations, policy summarization, and more.
+The most comprehensive collection of research on explainable reinforcement learning (XRL): **18 surveys and 257 articles** spanning 2016–2026.
 
-**Scope:** This list focuses on work that makes reinforcement learning agents or their decisions more understandable to humans. This includes methods for explaining learned policies, interpreting agent behavior, and generating human-readable justifications. General interpretable ML or XAI work is included only when directly applied to RL settings.
+Covers interpretable policies, saliency methods, counterfactual explanations, policy summarization, and more. Includes any work that makes RL agents or their decisions more understandable to humans.
 
-If you find this resource useful, consider giving it a star to help others discover it. Missing a paper or found an error? [Open an issue](../../issues) or email: contact (at) xrl (dot) ai.
+⭐ Star this repo to help others find it · [Open an issue](../../issues) to suggest a paper or report an error · contact (at) xrl (dot) ai
 
 ## Table of Contents
 
