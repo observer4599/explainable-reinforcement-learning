@@ -402,21 +402,8 @@ Contact: contact (at) xrl (dot) ai
 
 ## Citation
 
-If you use this resource in your research, please cite the following paper:
+If you use this resource in your research, please cite the following paper. See [CITATION.cff](CITATION.cff) for citation details.
 
-```bibtex
-@article{Bekkemoen_Explainablereinforcementlearning_2024,
-	author = {Yanzhe Bekkemoen},
-	journal = {Mach. Learn.},
-	title = {Explainable reinforcement learning {(XRL):} a systematic literature review and taxonomy},
-	year = {2024},
-	number = {1},
-	pages = {355--441},
-	volume = {113},
-	bibsource = {dblp computer science bibliography, https://dblp.org},
-	biburl = {https://dblp.org/rec/journals/ml/Bekkemoen24.bib},
-	doi = {10.1007/S10994-023-06479-7},
-	timestamp = {Sat, 06 Jan 2024 00:07:01 +0100},
-	url = {https://doi.org/10.1007/s10994-023-06479-7}
-}
-```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yanzheb/explainable-reinforcement-learning&type=Date)](https://star-history.com/#yanzheb/explainable-reinforcement-learning&Date)

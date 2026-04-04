@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this resource in your research, please cite the following paper."
+authors:
+- family-names: "Bekkemoen"
+  given-names: "Yanzhe"
+title: "Explainable Reinforcement Learning (XRL) Resources"
+url: "https://github.com/yanzheb/explainable-reinforcement-learning"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Bekkemoen"
+    given-names: "Yanzhe"
+  doi: "10.1007/s10994-023-06479-7"
+  journal: "Machine Learning"
+  title: "Explainable reinforcement learning (XRL): a systematic literature review and taxonomy"
+  volume: 113
+  number: 1
+  start: 355
+  end: 441
+  year: 2024
