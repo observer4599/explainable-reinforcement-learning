@@ -1,8 +1,8 @@
 # Explainable Reinforcement Learning (XRL) Resources
 
-[![Cite](https://img.shields.io/badge/cite-10.1007/S10994--023--06479--7-orange)](https://doi.org/10.1007/S10994-023-06479-7) ![Papers: 275](https://img.shields.io/badge/papers-275-blue) ![Last Updated: 2026-04-04](https://img.shields.io/badge/last_updated-2026--04--04-green) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![Cite](https://img.shields.io/badge/cite-10.1007/S10994--023--06479--7-orange)](https://doi.org/10.1007/S10994-023-06479-7) ![Papers: 277](https://img.shields.io/badge/papers-277-blue) ![Last Updated: 2026-04-04](https://img.shields.io/badge/last_updated-2026--04--04-green) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
-The most comprehensive collection of research on explainable reinforcement learning (XRL): **18 surveys and 257 articles** spanning 2016–2026.
+The most comprehensive collection of research on explainable reinforcement learning (XRL): **18 surveys and 258 articles** spanning 2016–2026.
 
 Covers interpretable policies, saliency methods, counterfactual explanations, policy summarization, and more. Includes any work that makes RL agents or their decisions more understandable to humans.
 
@@ -13,12 +13,14 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 - [Resources](#resources)
 - [Survey Papers](#survey-papers) (18 papers)
   - [General XRL Surveys](#general-xrl-surveys) (10) | [Deep RL Explainability](#deep-rl-explainability) (4) | [Focused Topics and Domains](#focused-topics-and-domains) (4)
-- [Papers](#papers) (257 papers)
-  - [2026](#2026) (1) | [2025](#2025) (8) | [2024](#2024) (22) | [2023](#2023) (32) | [2022](#2022) (50) | [2021](#2021) (53) | [2020](#2020) (35) | [2019](#2019) (32) | [2018](#2018) (18) | [2017](#2017) (5) | [2016](#2016) (1)
+- [Papers](#papers) (258 papers)
+  - [2026](#2026) (1) | [2025](#2025) (9) | [2024](#2024) (22) | [2023](#2023) (32) | [2022](#2022) (50) | [2021](#2021) (53) | [2020](#2020) (35) | [2019](#2019) (32) | [2018](#2018) (18) | [2017](#2017) (5) | [2016](#2016) (1)
 
 
 ## Recently Added
 
+- [Explanations for Sequential Decision-Making - an Overview](https://doi.org/10.1609/AAAI.V40I48.42129) — Fortieth AAAI Conference on Artificial Intelligence, Thirty-Eighth Conference on Innovative Applications of Artificial Intelligence, Sixteenth Symposium on Educational Advances in Artificial Intelligence, AAAI 2026, Singapore, January 20-27, 2026, 2026
+- [LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning](https://openreview.net/forum?id=Mjn53GtMxi) — ICLR, 2025
 - [Interpretable Deep Reinforcement Learning Via Concept-Based Policy Distillation](https://doi.org/10.1007/S10994-025-06928-5) — Mach. Learn., 2025
 - [Hierarchical Programmatic Option Framework](http://papers.nips.cc/paper_files/paper/2024/hash/e51ec47238fc3e82c269965c5533f9ef-Abstract-Conference.html) — NeurIPS, 2024
 - [Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents](http://papers.nips.cc/paper_files/paper/2024/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html) — NeurIPS, 2024
@@ -27,12 +29,14 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 - [Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies](https://dl.acm.org/doi/10.5555/3709347.3743538) — AAMAS, 2025
 - [Aligning Agent Policies with Preferences: Human-Centered Interpretable Reinforcement Learning](https://openreview.net/forum?id=0qssquBFsS) — WiML Workshop @ NeurIPS 2025, 2026
 - [Inducing, Detecting and Characterising Neural Modules: A Pipeline for Functional Interpretability in Reinforcement Learning](https://proceedings.mlr.press/v267/soligo25a.html) — ICML, 2025
-- [Interpreting Emergent Planning in Model-Free Reinforcement Learning](https://openreview.net/forum?id=DzGe40glxs) — ICLR, 2025
-- [From Explainability to Interpretability: Interpretable Reinforcement Learning Via Model Explanations](https://openreview.net/forum?id=kreQkWaOK5) — RLC, 2025
 
 ## Resources
 
-* Awesome Explainable Reinforcement Learning. [Link](https://github.com/Plankson/awesome-explainable-reinforcement-learning)
+- [Awesome Explainable Reinforcement Learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning) — curated list of XRL papers and resources
+- [AAAI 2024 Workshop on eXplainable AI approaches for Deep Reinforcement Learning (XAI4DRL)](https://openreview.net/group?id=AAAI.org%2F2024%2FWorkshop%2FXAI4DR) — workshop proceedings on OpenReview
+- [RLC 2024 Workshop on Interpretable Policies in Reinforcement Learning (InterpPol)](https://openreview.net/group?id=rl-conference.cc/RLC/2024/Workshop/InterpPol) — workshop proceedings on OpenReview
+- [RLC 2025 Workshop on Programmatic Reinforcement Learning (PRL)](https://openreview.net/group?id=rl-conference.cc/RLC/2025/Workshop/PRL) — workshop proceedings on OpenReview
+- [Explanations for Sequential Decision-Making - an Overview](https://doi.org/10.1609/aaai.v40i48.42129) — AAAI 2026 overview by Baier et al.
 
 ## Survey Papers
 
@@ -77,7 +81,7 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 
 ## Papers
 
-**Top venues:** NeurIPS (19) | ICLR (15) | AAAI (11) | ICML (10) | AAMAS (9) | CoRR (9) | XAI Workshop @ IJCAI (5) | Artif. Intell. (4) | IEEE Robotics Autom. Lett. (4) | IJCAI (4) | IROS (4) | SSCI (4) | ECML PKDD (3) | Eng. Appl. Artif. Intell. (3) | ICAART (3)
+**Top venues:** [NeurIPS](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22NeurIPS%22) (19) | [ICLR](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22ICLR%22) (16) | [AAAI](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22AAAI%22) (11) | [ICML](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22ICML%22) (10) | [AAMAS](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22AAMAS%22) (9) | [CoRR](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22CoRR%22) (9) | [XAI Workshop @ IJCAI](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22XAI%20Workshop%20%40%20IJCAI%22) (5) | [Artif. Intell.](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22Artif.%20Intell.%22) (4) | [IEEE Robotics Autom. Lett.](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22IEEE%20Robotics%20Autom.%20Lett.%22) (4) | [IJCAI](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22IJCAI%22) (4) | [IROS](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22IROS%22) (4) | [SSCI](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22SSCI%22) (4) | [ECML PKDD](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22ECML%20PKDD%22) (3) | [Eng. Appl. Artif. Intell.](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22Eng.%20Appl.%20Artif.%20Intell.%22) (3) | [ICAART](https://github.com/yanzheb/explainable-reinforcement-learning/search?q=%22ICAART%22) (3)
 
 ### 2026
 
@@ -95,10 +99,11 @@ Covers interpretable policies, saliency methods, counterfactual explanations, po
 | [2](https://doi.org/10.48550/ARXIV.2510.19244) | Interpret Policies in Deep Reinforcement Learning using SILVER with RL-Guided Labeling: A Model-level Approach to High-dimensional and Multi-action Environments | CoRR | 2025 |
 | [3](https://doi.org/10.48550/ARXIV.2509.04809) | TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models | CoRR | 2025 |
 | [4](https://openreview.net/forum?id=DzGe40glxs) | Interpreting Emergent Planning in Model-Free Reinforcement Learning | ICLR | 2025 |
-| [5](https://openreview.net/forum?id=Tk1VQDadfL) | UTILITY: Utilizing Explainable Reinforcement Learning to Improve Reinforcement Learning | ICLR | 2025 |
-| [6](https://proceedings.mlr.press/v267/soligo25a.html) | Inducing, Detecting and Characterising Neural Modules: A Pipeline for Functional Interpretability in Reinforcement Learning | ICML | 2025 |
-| [7](https://doi.org/10.1007/S10994-025-06928-5) | Interpretable Deep Reinforcement Learning Via Concept-Based Policy Distillation | Mach. Learn. | 2025 |
-| [8](https://openreview.net/forum?id=kreQkWaOK5) | From Explainability to Interpretability: Interpretable Reinforcement Learning Via Model Explanations | RLC | 2025 |
+| [5](https://openreview.net/forum?id=Mjn53GtMxi) | LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning | ICLR | 2025 |
+| [6](https://openreview.net/forum?id=Tk1VQDadfL) | UTILITY: Utilizing Explainable Reinforcement Learning to Improve Reinforcement Learning | ICLR | 2025 |
+| [7](https://proceedings.mlr.press/v267/soligo25a.html) | Inducing, Detecting and Characterising Neural Modules: A Pipeline for Functional Interpretability in Reinforcement Learning | ICML | 2025 |
+| [8](https://doi.org/10.1007/S10994-025-06928-5) | Interpretable Deep Reinforcement Learning Via Concept-Based Policy Distillation | Mach. Learn. | 2025 |
+| [9](https://openreview.net/forum?id=kreQkWaOK5) | From Explainability to Interpretability: Interpretable Reinforcement Learning Via Model Explanations | RLC | 2025 |
 
 [Back to top](#explainable-reinforcement-learning-xrl-resources)
 
